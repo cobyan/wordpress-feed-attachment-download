@@ -1,0 +1,13 @@
+{
+    "name": "marco/wordpress-tv_transfer",
+    "description": "simple script to download videos from Wordpress.tv and upload to YouTube",
+    "require": {
+        "google/apiclient": "1.0.*@beta"
+    },
+    "authors": [
+        {
+            "name": "Marco Bianco",
+            "email": "yale01@gmail.com"
+        }
+    ]
+}
